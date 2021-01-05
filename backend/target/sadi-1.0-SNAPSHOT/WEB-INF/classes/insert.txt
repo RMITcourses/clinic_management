@@ -1,0 +1,18 @@
+insert into users(id,name,password) values (1,'doctor','1');
+insert into users(id,name,password) values (2,'patient','1');
+
+insert into role(id,authority) values (1,'ROLE_DOCTOR');
+insert into role(id,authority) values (2,'ROLE_TRUSTED_CLIENT');
+
+insert into userrole(id,role_id,user_id) values (1,1,1);
+insert into userrole(id,role_id,user_id) values (2,2,2);
+
+insert into patient(id,name,address,gender,dateofbirth) values (1,'Humzah Welch','24 Elmwood Lane Kalispell, MT 59901','MALE','1924-06-05');
+insert into patient(id,name,address,gender,dateofbirth) values (2,'Ihsan Delacruz','8070 Manor Station Court Owosso, MI 48867','MALE','1986-09-23');
+insert into patient(id,name,address,gender,dateofbirth) values (3,'Maurice Briggs','56 South Lafayette Street Toledo, OH 43612','FEMALE','2000-07-12');
+insert into patient(id,name,address,gender,dateofbirth) values (4,'Ella-Mae Bowes','92 Hawthorne Ave. Marlton, NJ 08053','FEMALE','1973-07-19');
+insert into patient(id,name,address,gender,dateofbirth) values (5,'Jameson Brookes','74 SE. Oakwood Avenue Oakland Gardens, NY 11364','MALE','1992-11-03');
+insert into patient(id,name,address,gender,dateofbirth) values (6,'Caroline Cummings','390 W. Cardinal Ave. Greensburg, PA 15601','FEMALE','1997-04-22');
+
+alter sequence drug_seq restart with 2000;
+alter sequence patient_seq restart with 10;

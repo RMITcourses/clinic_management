@@ -1,0 +1,1134 @@
+1,Dexmedetomidin
+2,Diazepam
+3,Etomidat
+4,Fentanyl
+5,Flunitrazepam
+6,Halothan
+7,Isofluran
+8,Ketamin
+9,Levobupivacain
+10,Lidocain (hydroclorid)
+11,Lidocain + epinephrin (adrenalin)
+12,Lidocain + prilocain
+13,Midazolam
+14,"Morphin (hydroclorid, sulfat)"
+15,Oxy d__c d_ng
+16,Pethidin
+17,Procain hydroclorid
+18,Proparacain
+19,(hydroclorid)
+20,Propofol
+21,Sevofluran
+22,Sufentanil
+23,Thiopental (mu_i natri)
+24,Aceclofenac
+25,Acemetacin
+26,Aescin
+27,Celecoxib
+28,Dexibuprofen
+29,Diclofenac
+30,DL-lysin-acetylsalicylat
+31,(acetylsalicylic acid)
+32,Etodolac
+33,Etoricoxib
+34,Fentanyl
+35,Floctafenin
+36,Flurbiprofen natri
+37,Ibuprofen
+38,Ketoprofen
+39,Ketorolac
+40,Loxoprofen
+41,Meloxicam
+42,Methyl salicylat + dl-camphor + thymol + l-menthol + glycol salicylat + tocopherol acetat
+43,"Morphin (hydroclorid, sulfat)"
+44,Morphin sulfat
+45,Nabumeton
+46,Naproxen
+47,Nefopam (hydroclorid)
+48,Paracetamol (acetaminophen)
+49,Paracetamol + chlorpheniramin
+50,Paracetamol + codein phosphat
+51,Paracetamol + ibuprofen
+52,Paracetamol + pseudoephedrin
+53,Paracetamol + pseudoephedrin + chlorpheniramin
+54,Pethidin (hydroclorid)
+55,Piroxicam
+56,Tenoxicam
+57,Tiaprofenic acid
+58,Tramadol
+59,Allopurinol
+60,Benzbromaron
+61,Colchicin
+62,Probenecid
+63,Diacerein
+64,Glucosamin
+65,Alendronat
+66,Alendronat natri +
+67,cholecalciferol (Vitamin D3)
+68,Alpha chymotrypsin
+69,Calcitonin
+70,Cytidin-5monophosphat disodium + uridin
+71,Etanercept
+72,Infliximab
+73,Leflunomid
+74,Methocarbamol
+75,Risedronat
+76,Tocilizumab
+77,Zoledronic acid
+78,Acrivastin
+79,Alimemazin
+80,Cetirizin
+81,Cinnarizin
+82,Chlorpheniramin (hydrogen maleat)
+83,Desloratadin
+84,Dexchlorpheniramin
+85,Diphenhydramin
+86,Ebastin
+87,Epinephrin (adrenalin)
+88,Fexofenadin
+89,Hydroxyzin
+90,Ketotifen
+91,Levocetirizin
+92,Loratadin
+93,Loratadin + pseudoephedrin
+94,Mequitazin
+95,Promethazin (hydroclorid)
+96,Acetylcystein
+97,Atropin (sulfat)
+98,Bretylium tosilat
+99,Calci gluconat
+100,Dantrolen
+101,Deferoxamin
+102,Dimercaprol
+103,DL- methionin
+104,__ng sulfat
+105,Edetat natri calci (EDTA Ca-Na)
+106,Ephedrin (hydroclorid)
+107,Esmolol
+108,Flumazenil
+109,Fomepizol
+110,Glucagon
+111,Glutathion
+112,Hydroxocobalamin
+113,Leucovorin (folinic acid)
+114,Nalorphin
+115,Naloxon (hydroclorid)
+116,Naltrexon
+117,Natri hydrocarbonat (natri bicarbonat)
+118,Natri sulfat
+119,Natri thiosulfat
+120,Nor-epinephrin (Nor- adrenalin)
+121,Penicilamin
+122,Phenylephrin
+123,Polystyren
+124,Pralidoxim iodid
+125,Protamin sulfat
+126,N-methylglucamin succinat+ natri clorid + kali clorid+ magnesi clorid
+127,Sorbitol
+128,Silibinin
+129,Succimer
+130,Than ho_t
+131,Xanh methylen
+132,Carbamazepin
+133,Gabapentin
+134,Lamotrigine
+135,Levetiracetam
+136,Oxcarbazepin
+137,Phenobarbital
+138,Phenytoin
+139,Pregabalin
+140,Topiramat
+141,Valproat magnesi
+142,Valproat natri
+143,Valproat natri + valproic acid
+144,Valproic acid
+145,Valpromid
+146,Albendazol
+147,Diethylcarbamazin
+148,(dihydrogen citrat)
+149,Ivermectin
+150,Mebendazol
+151,Metrifonat
+152,Niclosamid
+153,Praziquantel
+154,Pyrantel
+155,Triclabendazol
+156,Amoxicilin
+157,Amoxicilin + acid clavulanic
+158,Amoxicilin + sulbactam
+159,Ampicilin (mu_i natri)
+160,Ampicilin + sulbactam
+161,Benzathin benzylpenicilin
+162,Benzylpenicilin
+163,Cefaclor
+164,Cefadroxil
+165,Cefalexin
+166,Cefalothin
+167,Cefamandol
+168,Cefazolin
+169,Cefdinir
+170,Cefepim*
+171,Cefixim
+172,Cefmetazol
+173,Cefoperazon*
+174,Cefoperazon + sulbactam*
+175,Cefotaxim
+176,Cefotiam*
+177,Cefoxitin
+178,Cefpirom
+179,Cefpodoxim
+180,Cefradin
+181,Ceftazidim
+182,Ceftezol
+183,Ceftibuten
+184,Ceftizoxim
+185,Ceftriaxon*
+186,Cefuroxim
+187,Cloxacilin
+188,Doripenem*
+189,Ertapenem*
+190,Imipenem + cilastatin*
+191,Meropenem*
+192,Oxacilin
+193,Piperacilin
+194,Piperacilin + tazobactam*
+195,Phenoxy methylpenicilin
+196,Procain benzylpenicilin
+197,Sultamicillin
+198,Ticarcillin + kali clavulanat
+199,Amikacin*
+200,Gentamicin
+201,Neomycin (sulfat)
+202,Neomycin + bacitracin
+203,Neomycin + betamethason
+204,Neomycin + polymyxinB
+205,Neomycin + polymyxin B + dexamethason
+206,Neomycin + triamcinolon
+207,Netilmicin sulfat*
+208,Tobramycin
+209,Tobramycin + dexamethason
+210,Cloramphenicol
+211,Cloramphenicol + dexamethason
+212,Cloramphenicol + sulfacetamid
+213,Thiamphenicol
+214,Metronidazol
+215,Metronidazol + neomycin + nystatin
+216,Metronidazol + clindamycin
+217,Secnidazol
+218,Tinidazol
+219,Clindamycin
+220,Azithromycin*
+221,Azithromycin
+222,Clarithromycin
+223,Erythromycin
+224,Erythromycin + sulfamethoxazol + trimethoprim
+225,Roxithromycin
+226,Spiramycin
+227,Spiramycin + metronidazol
+228,Telithromycin
+229,Ciprofloxacin
+230,Levofloxacin*
+231,Levofloxacin
+232,Lomefloxacin*
+233,Moxifloxacin*
+234,Moxifloxacin
+235,Nalidixic acid
+236,Norfloxacin
+237,Ofloxacin
+238,Pefloxacin
+239,Natri Sulfacetamid + methylthionin clorid
+240,Sulfadiazin b_c
+241,Sulfadimidin (mu_i natri)
+242,Sulfadoxin + pyrimethamin
+243,Sulfaguanidin
+244,Sulfamethoxazol + trimethoprim
+245,Sulfamethoxazol + trimethoprim + than ho_t
+246,Sulfasalazin
+247,Doxycyclin
+248,Minocyclin
+249,Tetracyclin (hydroclorid)
+250,Argyrol
+251,Colistin*
+252,Daptomycin*
+253,Fosfomycin (natri)
+254,Fusafungin
+255,Linezolid*
+256,Nitrofurantoin
+257,Nitroxolin
+258,Rifampicin
+259,Teicoplanin*
+260,Vancomycin*
+261,Abacavir (ABC)
+262,Aciclovir
+263,Adefovir dipivoxil
+264,Didanosin (ddl)
+265,Efavirenz (EFV ho_c EFZ)
+266,Entecavir
+267,Ganciclovir*
+268,Indinavir (NFV)
+269,Interferon (alpha)*
+270,Lamivudin
+271,Lopinavir + ritonavir (LPV/r)
+272,Nevirapin (NVP)
+273,Oseltamivir*
+274,Pegylated interferon (peginterferon) alpha (2a ho_c 2b)*
+275,Ribavirin
+276,Ritonavir
+277,Saquinavir (SQV)
+278,Stavudin (d4T)
+279,Tenofovir (TDF)
+280,Tenofovir + Lamivudin
+281,Zanamivir
+282,Zidovudin (ZDV ho_c AZT)
+283,Amphotericin B*
+284,Butoconazol nitrat
+285,Ciclopiroxolamin
+286,Clorquinaldol + promestrien
+287,Clotrimazol
+288,Dequalinium clorid
+289,Econazol
+290,Fluconazol
+291,Fenticonazol nitrat
+292,Flucytosin
+293,Griseofulvin
+294,Itraconazol
+295,Ketoconazol
+296,Metronidazol + miconazol + neomycin sulfat + polymycin B sulfat + gotukola
+297,Miconazol
+298,Natamycin
+299,Nystatin
+300,Nystatin + metronidazol
+301,Nystatin + metronidazol + Cloramphenicol + dexamethason acetat
+302,Nystatin + metronidazol + neomycin
+303,Nystatin + neomycin + polymyxin B
+304,Policresulen
+305,Terbinafin (hydroclorid)
+306,Diiodohydroxyquinolin
+307,Diloxanid (furoat)
+308,Metronidazol
+309,Ethambutol
+310,Isoniazid
+311,Isoniazid + ethambutol
+312,Pyrazinamid
+313,Rifampicin
+314,Rifampicin + isoniazid
+315,Rifampicin + isoniazid + pyrazinamid
+316,Rifampicin+ isoniazid + pyrazinamid + ethambutol
+317,Streptomycin
+318,Thu_c _i_u tr_ lao kh�ng thu_c
+319,Amikacin
+320,Capreomycin
+321,Ciprofloxacin
+322,Cycloserin
+323,Ethionamid
+324,Kanamycin
+325,Levofloxacin
+326,Ofloxacin
+327,Amodiaquin
+328,Artesunat
+329,Cloroquin
+330,Hydroxy cloroquin
+331,Mefloquin
+332,Piperaquin + dihydroartemisinin
+333,Primaquin
+334,Proguanil
+335,Quinin
+336,Sulfadoxin + pyrimethamin
+337,Dihydro ergotamin mesylat
+338,Ergotamin (tartrat)
+339,Flunarizin
+340,Sumatriptan
+341,Arsenic trioxid
+342,Anastrozol
+343,Anti thymoccyte globulin11
+344,Bevacizumab
+345,Bicalutamid
+346,Bleomycin
+347,Bortezomib
+348,Busulfan
+349,Calci folinat
+350,Capecitabin
+351,Carboplatin
+352,Cetuximab
+353,Cisplatin
+354,Clodronat disodium
+355,Cyclophosphamid
+356,Cytarabin
+357,Dacarbazin
+358,Dactinomycin
+359,Daunorubicin
+360,Decitabin
+361,Docetaxel
+362,Doxorubicin
+363,Epirubicin hydroclorid
+364,Erlotinib
+365,Etoposid
+366,Exemestan
+367,Fludarabin
+368,Flutamid
+369,Fluorouracil (5-FU)
+370,Gefitinib
+371,Gemcitabin
+372,Goserelin acetat
+373,Hydroxycarbamid/ Hydroxyurea
+374,Idarubicin
+375,Ifosfamid
+376,Imatinib
+377,Irinotecan
+378,L-asparaginase
+379,Letrozol
+380,Leuprorelin acetat
+381,Melphalan
+382,Mercaptopurin
+383,Mesna
+384,Methotrexat
+385,Mitomycin
+386,Mitoxantron
+387,Nilotinib
+388,Nimotuzumab
+389,Oxaliplatin
+390,Paclitaxel
+391,Pamidronat
+392,Pemetrexed
+393,Procarbazin
+394,Rituximab
+395,Sorafenib
+396,Tamoxifen
+397,Tegafur-uracil (UFT or UFUR)
+398,Temozolomid
+399,Thymosin alpha I
+400,Trastuzumab
+401,Tretinoin (All-trans retinoic acid)
+402,Triptorelin*
+403,Vinblastin (sulfat)
+404,Vincristin (sulfat)
+405,Vinorelbin
+406,Azathioprin
+407,Carmustin
+408,Ciclosporin
+409,Basiliximab
+410,Everolimus
+411,Glycyl funtumin (hydroclorid)
+412,Mycophenolat
+413,Tacrolimus
+414,Thalidomid
+415,Alfuzosin
+416,Cloramphenicol + Xanh methylen
+417,Dutasterid
+418,Flavoxat
+419,Lipidosterol serenoarepense (Lipid-sterol c_a Serenoa repens)
+420,Malva purpurea + camphomonobromid + xanh methylen
+421,Biperiden
+422,Levodopa + carbidopa
+423,Levodopa + Carbidopa monohydrat + Entacapone
+424,Levodopa + benserazid
+425,Piribedil
+426,Pramipexol
+427,Tolcapon
+428,Trihexyphenidyl (hydroclorid)
+429,Folic acid
+430,(vitamin B9)
+431,S_t ascorbat + folic acid
+432,S_t fumarat
+433,S_t fumarat + acid folic
+434,S_t fumarat + acid folic + vitamin B12
+435,S_t (III) hydroxyd polymaltose
+436,S_t (III) hydroxyd polymaltose + acid folic
+437,S_t protein succinylat
+438,S_t sucrose (hay dextran)
+439,S_t sulfat (hay oxalat)
+440,S_t sulfat + folic acid
+441,S_t sulfat + folic acid + k_m sulfat
+442,Acenocoumarol
+443,Aminocaproic acid
+444,Carbazochrom
+445,Cilostazol
+446,Dabigatran
+447,Enoxaparin (natri)
+448,Ethamsylat
+449,Heparin (natri)
+450,Nadroparin
+451,Nadroparin calci
+452,Phytomenadion (vitamin K1)
+453,Protamin sulfat
+454,Rivaroxaban
+455,Tranexamic acid
+456,Triflusal
+457,Urokinase
+458,Warfarin (mu_i natri)
+459,Albumin
+460,Huy_t t__ng
+461,Kh_i b_ch c_u
+462,Kh_i h_ng c_u
+463,Kh_i ti_u c_u
+464,M�u to�n ph_n
+465,Y_u t_ VIIa
+466,Y_u t_ VIII
+467,Y_u t_ IX
+468,Dextran 40
+469,Dextran 60
+470,Dextran 70
+471,Gelatin
+472,Gelatin succinyl + natri clorid + natri hydroxyd
+473,Tinh b_t este h�a (hydroxyethyl starch)
+474,Deferasirox
+475,Deferipron
+476,Erythropoietin
+477,Filgrastim
+478,Methoxy polyethylene glycol epoetin beta
+479,Pegfilgrastim
+480,Atenolol
+481,Diltiazem
+482,Glyceryl trinitrat (Nitroglycerin)
+483,Isosorbid (dinitrat ho_c mononitrat)
+484,Nicorandil
+485,Trimetazidin
+486,Adenosin triphosphat
+487,Amiodaron (hydroclorid)
+488,Isoprenalin
+489,Ivabradin
+490,Lidocain (hydroclorid)
+491,Propranolol (hydroclorid)
+492,Sotalol
+493,Verapamil (hydroclorid)
+494,Acebutolol
+495,Amlodipin
+496,Benazepril hydroclorid
+497,Bisoprolol
+498,Bisoprolol + hydroclorothiazid
+499,Candesartan
+500,Captopril
+501,Carvedilol
+502,Cilnidipin
+503,Clonidin
+504,Doxazosin
+505,Enalapril
+506,Felodipin
+507,Hydralazin
+508,Imidapril
+509,Indapamid
+510,Irbesartan
+511,Irbesartan + hydroclorothiazid
+512,Lacidipin
+513,Lercanidipin (hydroclorid)
+514,Lisinopril
+515,Lisinopril + hydroclorothiazid
+516,Losartan
+517,Losartan + hydroclorothiazid
+518,Methyldopa
+519,Metoprolol
+520,Moxonidin
+521,Nebivolol
+522,Nicardipin
+523,Nifedipin
+524,Perindopril
+525,Perindopril + amlodipin
+526,Perindopril + indapamid
+527,Quinapril
+528,Ramipril
+529,Rilmenidin
+530,Telmisartan
+531,Telmisartan + hydroclorothiazid
+532,Valsartan
+533,Valsartan + hydroclorothiazid
+534,Heptaminol (hydroclorid)
+535,Carvedilol
+536,Digoxin
+537,Dobutamin
+538,Dopamin (hydroclorid)
+539,Milrinon
+540,Nikethamid
+541,Acenocoumarol
+542,Acetylsalicylic acid
+543,Alteplase
+544,Clopidogrel
+545,Dipyridamol + acetylsalicylic acid
+546,Eptifibatid
+547,Fondaparinux sodium
+548,Iloprost
+549,Prostaglandin E1
+550,Streptokinase
+551,Tenecteplase
+552,Radix astragali + Radix salviae miltiorrhizae + Radix paeoniae rubra + Rhizoma Ligustici Wallichii + Radix angelicae sinensis + Carthamus tinctorius + Semen Persicae + Radix polygalae + Rhizome acori tatarinowii + Buthus martensii + Hirudo + Eupolyphaga seu steleophaga + Calculus bovis artifactus + Cornu saigae tataricae
+553,Atorvastatin
+554,Bezafibrat
+555,Ciprofibrat
+556,Ezetimibe
+557,Fenofibrat
+558,Fluvastatin
+559,Gemfibrozil
+560,Lovastatin
+561,Pravastatin
+562,Rosuvastatin
+563,Simvastatin
+564,Bosentan
+565,Peptid (Cerebrolysin concentrate)
+566,Choline alfoscerat
+567,Citicolin
+568,Desoxycorton acetat
+569,"Fructose 1,6 diphosphat"
+570,Ginkgo biloba
+571,Kali clorid
+572,Indomethacin
+573,Magnesi clorid + kali clorid + procain hydroclorid
+574,Meclophenoxat
+575,Naftidrofuryl
+576,Nimodipin
+577,Nitric oxid (nitrogen monoxid) (NO)
+578,Panax notoginseng saponins
+579,Pentoxifyllin
+580,Piracetam
+581,Succinic acid + nicotinamid + inosine + riboflavin natri phosphat
+582,Sulbutiamin
+583,Vincamin + rutin
+584,Vinpocetin
+585,Acitretin
+586,Adapalen
+587,Alpha - terpineol
+588,Amorolfin
+589,Azelaic acid
+590,Benzoic acid + salicylic acid
+591,Benzoyl peroxid
+592,B_t talc
+593,Calcipotriol
+594,Calcipotriol + betamethason dipropionat
+595,Capsaicin
+596,Catalase + neomycin sulfat
+597,Clotrimazol
+598,Clobetasol propionat
+599,Clobetasol butyrat
+600,Cortison
+601,C_n A.S.A
+602,C_n boric
+603,C_n BSI
+604,Crotamiton
+605,Dapson
+606,Desonid
+607,"Dexpanthenol (panthenol, vitamin B5)"
+608,Diethylphtalat
+609,S-bioallethrin + piperonyl butoxid
+610,Flumethason + clioquinol
+611,Fusidic acid
+612,Fusidic acid + betamethason
+613,Fusidic acid + hydrocortison
+614,Isotretinoin
+615,K_m oxid
+616,Mangiferin
+617,Miconazole nitrat + resorchinol
+618,Mometason furoat
+619,Mometason furoat + tazaronten
+620,Mupirocin
+621,Natri hydrocarbonat
+622,Nepidermin
+623,N__c oxy gi�
+624,Para aminobenzoic acid
+625,Recombinant human Epidermal Growth Factor (rhEGF)
+626,Salicylic acid
+627,Salicylic acid + betamethason dipropionat
+628,Tacrolimus
+629,Tretinoin
+630,Trolamin
+631,Tyrothricin
+632,Urea
+633,Xanh methylen + t�m gentian
+634,Fluorescein (natri)
+635,Pilocarpin
+636,Adipiodon (meglumin)
+637,Amidotrizoat
+638,Bari sulfat
+639,Dimeglumin c_a acid gadopentetic
+640,Ethyl ester c_a acid b�o iod h�a trong d_u h_t thu_c phi_n18
+641,Gadobenic acid
+642,Gadobutrol
+643,Gadodiamid
+644,Gadopentetat
+645,Gadoteric acid
+646,Iobitridol
+647,Iodamid meglumin
+648,Iohexol
+649,Iopamidol
+650,Iopromid acid
+651,Ioxitalamat natri + ioxitalamat meglumin
+652,Mu_i natri v� meglumin c_a acid ioxaglic
+653,Polidocanol
+654,Acid boric + kali nh�m sulfat + thymol + phenol + menthol + berberin sulfat
+655,Acid lactic + lactoserum atomisat
+656,Benzoic acid + boric acid + thymol + menthol
+657,C_n 70�
+658,C_n iod
+659,__ng sulfat
+660,Povidon iodin
+661,Natri hypoclorid __m __c
+662,Natri clorid
+663,Furosemid
+664,Hydroclorothiazid
+665,Spironolacton
+666,Aluminum phosphat
+667,Attapulgit mormoiron ho_t h�a + h_n h_p magnesi carbonat-nh�m hydroxyd
+668,Bismuth
+669,Cimetidin
+670,Famotidin
+671,Guaiazulen + dimethicon
+672,Lanzoprazol
+673,Magnesi carbonat + nh�m hydroxit + atropin sulfat + calci alumina carbonat
+674,Magnesi hydroxyd + nh�m hydroxyd
+675,Magnesi hydroxyd + nh�m hydroxyd + simethicon
+676,Magnesi trisilicat + nh�m hydroxyd
+677,Natri sulfat + dinatri hydrophosphat + natri hydrocarbonat
+678,Natri sulfat + dinatri hydrophosphat + natri hydrocarbonat + natri citrat
+679,Natri sulfat + natri phosphat tribasic + natri hydrocarbonat + natri citrat
+680,Nizatidin
+681,Omeprazol
+682,Esomeprazol
+683,Pantoprazol
+684,Rabeprazol
+685,Ranitidin
+686,Ranitidin + bismuth + sucralfat
+687,Rebamipid
+688,Sucralfat
+689,Acetyl leucin
+690,Dimecrotic acid
+691,(mu_i magnesi)
+692,Dimenhydrinat
+693,Domperidon
+694,Granisetron hydroclorid
+695,Metoclopramid
+696,Ondansetron
+697,Palonosetron hydroclorid
+698,Alverin (citrat)
+699,Alverin (citrat) + simethicon
+700,Atropin (sulfat)
+701,Cisaprid
+702,Drotaverin clohydrat
+703,Hyoscin butylbromid
+704,Mebeverin hydroclorid
+705,Papaverin hydroclorid
+706,Phloroglucinol hydrat + trimethylphloroglucinol
+707,Tiemonium methylsulfat
+708,Tiropramid hydroclorid
+709,Bisacodyl
+710,Docusate natri
+711,G�m sterculia
+712,Glycerol
+713,Glycerol + camomile extract glycolic + mallow fluid extract
+714,Isapgol
+715,Lactulose
+716,Macrogol (polyethylen glycol ho_c polyoxyethylen glycol)
+717,Macrogol (polyethylen glycol) + natri sulfat + natri bicarbonat + natri clorid + kali clorid
+718,Magnesi sulfat
+719,Monobasic natri phosphat + dibasic natri phosphat
+720,Sorbitol
+721,Sorbitol + natri citrat
+722,Attapulgit mormoiron ho_t h�a
+723,Bacillus subtilis
+724,Bacillus claussii
+725,Berberin (hydroclorid)
+726,Dioctahedral smectit
+727,Diosmectit
+728,Gelatin tannat
+729,K_m sulfat
+730,K_m gluconat
+731,Lactobacillus acidophilus
+732,Loperamid
+733,Natri clorid + natri bicarbonat + kali clorid + dextrose khan
+734,Natri clorid + natri bicarbonat + natri citrat + kali clorid + glucose
+735,Natri clorid + natri citrat + kali clorid + glucose khan
+736,Nifuroxazid
+737,Racecadotril
+738,Saccharomyces boulardii
+739,Cao ginkgo biloba + heptaminol clohydrat + troxerutin
+740,Diosmin
+741,Diosmin + hesperidin
+742,Trimebutin + ruscogenines
+743,Amylase + papain
+744,Amylase + papain + simethicon
+745,Amylase + lipase + protease
+746,Arginin
+747,Arginin citrat
+748,Arginin hydroclorid
+749,Citrullin malat
+750,Glycyrrhizin + Glycin + L- Cystein
+751,Itoprid
+752,L-Ornithin - L- aspartat
+753,"Mesalazin (Mesalamin, Fisalamin)"
+754,Octreotid
+755,Simethicon
+756,Silymarin
+757,Somatostatin
+758,Terlipressin
+759,Trimebutin maleat
+760,Urazamid
+761,Ursodeoxycholic acid
+762,Beclometason (dipropionat)
+763,Betamethason
+764,Betamethason
+765,"(dipropionat, valerat)"
+766,Betamethason dipropionat + clotrimazol + gentamicin
+767,Budesonid
+768,Budesonid + formoterol
+769,Danazol
+770,Desoxycortone acetat
+771,Dexamethason
+772,Dexamethason acetat
+773,Dexamethason phosphat + neomycin
+774,Fludrocortison acetat
+775,Fluocinolon acetonid
+776,Fluocinolon acetonid + m_ tr_n
+777,Fluorometholon
+778,Hydrocortison
+779,Hydrocortison acetat + chloramphenicol
+780,Hydrocortison natri succinat
+781,Methyl prednisolon
+782,Prednisolon acetat
+783,Prednisolon metasulfobenzoat natri
+784,Prednison
+785,Triamcinolon acetonid
+786,Triamcinolon
+787,Triamcinolon + econazol
+788,Cyproteron acetat
+789,Somatropin
+790,Dydrogesteron
+791,Estradiol benzoat
+792,Estriol
+793,Estrogen + norgestrel
+794,Ethinyl estradiol
+795,Lynestrenol
+796,Methyl testosteron
+797,Nandrolon decanoat
+798,Norethisteron
+799,Nomegestrol acetat
+800,Promestrien
+801,Progesteron
+802,Raloxifen
+803,Testosteron
+804,"(acetat, propionat, undecanoat)"
+805,Acarbose
+806,Glibenclamid
+807,Gliclazid
+808,Glimepirid
+809,Glipizid
+810,"Insulin t�c d_ng trung b�nh, trung gian (Medium-acting, Intermediate-acting)"
+811,"Insulin t�c d_ng nhanh, ng_n (Fast-acting, Short-acting)"
+812,"Insulin tr_n, h_n h_p (Mixtard-acting, Dual-acting)"
+813,"Insulin t�c d_ng ch_m, k�o d�i (Slow-acting, Long-acting)"
+814,Metformin
+815,Metformin + glibenclamid
+816,Repaglinid
+817,Saxagliptin
+818,Sitagliptin
+819,Vildagliptin
+820,Calcitonin
+821,Carbimazol
+822,Levothyroxin (mu_i natri)
+823,Propylthiouracil (PTU)
+824,Thiamazol
+825,Desmopressin
+826,Pituitrin
+827,Vasopressin
+828,Immune globulin
+829,Huy_t thanh kh�ng b_ch h_u
+830,Huy_t thanh kh�ng d_i
+831,Huy_t thanh kh�ng n_c r_n
+832,Huy_t thanh kh�ng u_n v�n
+833,Atracurium besylat
+834,Baclofen
+835,Botulinum toxin
+836,Eperison
+837,Galantamin
+838,Mephenesin
+839,Neostigmin metylsulfat
+840,Neostigmin bromid
+841,Pancuronium bromid
+842,Pipecuronium bromid
+843,Pyridostigmin bromid
+844,Rivastigmine
+845,Rocuronium bromid
+846,Suxamethonium clorid
+847,Tizanidin hydroclorid
+848,Thiocolchicosid
+849,Tolperison
+850,Vecuronium bromid
+851,Acetazolamid
+852,Adenosin + cytidin + thymidin + uridin + natri guanosin 5'monophosphat
+853,Adenosin + cytidin + thymidin + uridin + guanylat 5-disodium
+854,Antazolin + tetryzolin
+855,Atropin (sulfat)
+856,Betaxolol
+857,Bimatoprost
+858,Brimonidin tartrat
+859,Brinzolamid
+860,Carbomer + hypromellose
+861,Carbomer
+862,Cao anthocyanosid + vitamin E
+863,Cloramphenicol + dexamethason + tetryzolin
+864,Chlorpheniramin + naphazolin + vitamin B12
+865,Cyclosporin
+866,Dexamethason + framycetin
+867,Dexpanthenol (panthenol)
+868,Dinatri inosin monophosphat
+869,Fluorometholon + tetryzolin
+870,Glycerin
+871,Hexamidine di-isetionat
+872,Hyaluronidase
+873,Hydroxypropylmethylcellulose
+874,Indomethacin
+875,Kali iodid + natri iodid
+876,Latanoprost
+877,Latanoprost + timolol maleat
+878,Loteprednol etabonat
+879,Moxifloxacin + dexamethason
+880,Nandrolon monosodium
+881,Natamycin
+882,Natri carboxymethylcellulose (natri CMC)
+883,Natri CMC + acid boric + calci clorid + kali clorid + magnesi clorid + purite
+884,Natri CMC + calci clorid + kali clorid + natri clorid + natri lactat
+885,Natri CMC + calci clorid + kali clorid + magnesi clorid + natri clorid + natri lactat
+886,Natri CMC + acid boric + calci clorid + erythritol + glycerin + kali clorid + levo + carnitin + magnesi clorid + purite
+887,Natri hyaluronat
+888,Natri chondroitin sulfat + retinol palmitat + cholin hydrotartrat + riboflavin + thiamin hydroclorid
+889,Natri clorid
+890,Natri sulfacetamid + tetramethylthionin clorid + thiomersalat
+891,Neomycin sulfat + gramicidin + 9-alpha fluohydrocortison acetat
+892,Olopatadin (hydroclorid)
+893,Pemirolast kali
+894,Pilocarpin
+895,Pirenoxin
+896,Polyethylen glycol + Propylen glycol
+897,Ranibizumab
+898,Tetracain
+899,Tetryzolin
+900,Timolol
+901,Tolazolin
+902,Travoprost
+903,Tropicamid
+904,Tropicamide + phenyl-ephrine hydroclorid
+905,Betahistin
+906,Beta-glycyrrhetinic acid + dequalinium clorid + tyrothricin + hydrocortison acetat + lidocain hydroclorid
+907,C_n boric
+908,Fluticasone furoate
+909,Fluticason propionat
+910,Lidocain
+911,Naphazolin
+912,Natri borat
+913,Phenazon + lidocain
+914,(hydroclorid)
+915,Rifamycin
+916,Tixocortol pivalat
+917,Triprolidin (hydroclorid) + pseudoephedrin
+918,Tyrothricin + tetracain (hydroclorid)
+919,Tyrothricin + benzocain + benzalkonium
+920,Xylometazolin
+921,Carbetocin
+922,Carboprost tromethamin
+923,Dinoproston
+924,Levonorgestrel
+925,Methyl ergometrin (maleat)
+926,Oxytocin
+927,Ergometrin (hydrogen maleat)
+928,Misoprostol
+929,Alverin citrat
+930,Atosiban
+931,Papaverin
+932,Phloroglucinol + trimethylphloroglucinol
+933,Salbutamol (sulfat)
+934,Dung d_ch th_m ph�n m�ng b_ng (ph�c m_c) v� l_c m�u
+935,Dung d_ch l_c th_n bicarbonat
+936,ho_c acetat
+937,Natri clorid + natri acetat + calci clorid + magnesi clorid + kali clorid
+938,Bromazepam
+939,Calci bromid + cloral hydrat + natri benzoat
+940,Clorazepat
+941,Diazepam
+942,Etifoxin chlohydrat
+943,Hydroxyzin
+944,Lorazepam
+945,Rotundin
+946,Zolpidem
+947,Zopiclon
+948,Acid thioctic/ Meglumin thioctat
+949,Alprazolam
+950,Amisulprid
+951,Clorpromazin (hydroclorid)
+952,Clozapin
+953,Clonazepam
+954,Donepezil
+955,Flupentixol
+956,Fluphenazin decanoat
+957,Haloperidol
+958,Levomepromazin
+959,Levosulpirid
+960,Meclophenoxat
+961,Olanzapin
+962,Quetiapin
+963,Risperidon
+964,Sulpirid
+965,Thioridazin
+966,Tofisopam
+967,Ziprasidon
+968,Zuclopenthixol
+969,Amitriptylin (hydroclorid)
+970,Citalopram
+971,Clomipramin
+972,Fluoxetin
+973,Fluvoxamin
+974,Mirtazapin
+975,Paroxetin
+976,Sertralin
+977,Tianeptin
+978,Venlafaxin
+979,Aminophylin
+980,Bambuterol
+981,Budesonid
+982,Budesonid + formoterol
+983,Carbocistein + salbutamol
+984,Fenoterol + ipratropium
+985,Formoterol fumarat
+986,Ipratropium
+987,Natri montelukast
+988,Salbutamol (sulfat)
+989,Salbutamol + ipratropium
+990,Salmeterol + fluticason propionat
+991,Terbutalin
+992,Terbutalin sulfat + guaiphenesin
+993,Theophylin
+994,Tiotropium
+995,Alimemazin
+996,Ambroxol
+997,Bromhexin (hydroclorid)
+998,Carbocistein
+999,Codein camphosulphonat + sulfoguaiacol + cao m_m Grindelia
+1000,Codein + terpin hydrat
+1001,Dextromethorphan
+1002,Dextromethorphan hydrobromua + clorpheniramin maleat + sodium citrate dihydrat + glyceryl guaiacolat
+1003,Eprazinon
+1004,Eucalyptin
+1005,Fenspirid
+1006,N-acetylcystein
+1007,Oxomemazin + guaifenesin + paracetamol +�
+1008,natri benzoat
+1009,Bacterial lysates of Haemophilus influenzae + Diplococcus pneumoniae + Klebsiella pneumoniae and ozaenae + Staphylococcus
+1010,aureus + Streptococcus pyogenes and viridans + Neisseria catarrhalis
+1011,B_t talc
+1012,Cafein (citrat)
+1013,Mometason furoat
+1014,Surfactant (Phospholipid chi_t xu_t t_ ph_i l_n ho_c ph_i b�)
+1015,Kali clorid
+1016,Kali glutamat + magnesi glutamat
+1017,Magnesi aspartat + kali aspartat
+1018,Natri clorid + kaliclorid + natri citrat + natri bicarbonat + glucose
+1019,Natri clorid + kali clorid + natri citrat + glucose khan
+1020,Natri clorid + kali clorid + natri citrat + glucose khan + k_m
+1021,Acid amin*
+1022,Acid amin + glucose + _i_n gi_i (*)
+1023,Acid amin + glucose + lipid (*)
+1024,Calci clorid
+1025,Glucose
+1026,Glucose-lactat
+1027,Kali clorid
+1028,Magnesi sulfat
+1029,Magnesi aspartat + kali aspartat
+1030,Manitol
+1031,Natri clorid
+1032,Natri clorid + dextrose/glucose
+1033,Natri clorid + fructose + glycerin
+1034,Natri clorid + kali clorid + monobasic kali phosphat + natri acetat + magnesi sulfat + k_m sulfat + dextrose
+1035,Nh_ d_ch lipid
+1036,Ringer lactat
+1037,Natri lactat + natri clorid + kali clorid + calcium clorid + glucose
+1038,N__c c_t pha ti�m
+1039,Calci acetat
+1040,Calci bromogalactogluconat
+1041,Calci carbonat
+1042,Calci carbonat + calci gluconolactat
+1043,Calci carbonat + vitamin D3
+1044,Calci lactat
+1045,Calci glubionat
+1046,Calci glucoheptonat
+1047,Calci gluconolactat
+1048,Calci glycerophosphat + magnesi gluconat
+1049,Calci-3-methyl-2-oxovalerat + calci-4-methyl-2-oxovalerat + calci-2- oxo-3-phenylpropionat + calci-3-methyl-2-oxobutyrat + calci-2-hydroxy-4- methylthiobutyrat + L-lysin acetat + L-threonin + L-tryptophan + L-histidin + L- tyrosin + Nit_ + calci (*)25
+1050,Calcitriol
+1051,Dibencozid
+1052,Lysin + Vitamin + Kho�ng ch_t
+1053,Mecobalamin
+1054,S_t gluconat + mangan gluconat + __ng gluconat
+1055,S_t clorid + k_m clorid + mangan clorid + __ng clorid + cr�m clorid + natri molypdat dihydrat + natri selenid pentahydrat + natri fluorid + kali iodid
+1056,Tricalcium phosphat
+1057,Vitamin A
+1058,Vitamin A + D
+1059,Vitamin B1
+1060,Vitamin B1 + B6 + B12
+1061,Vitamin B2
+1062,Vitamin B3
+1063,Vitamin B5
+1064,Vitamin B6
+1065,Vitamin B6 + magnesi (lactat)
+1066,Vitamin B12
+1067,"(Cyanocobalamin, Hydroxocobalamin)"
+1068,Vitamin C
+1069,Vitamin C + rutine
+1070,Vitamin D2
+1071,Vitamin D3
+1072,Vitamin E
+1073,Vitamin H (B8)
+1074,Vitamin K
+1075,Vitamin PP
+1076,___ng d�ng
+1077,Ti�m t_nh m_ch
+1078,Ti�m t_nh m_ch
+1079,�p s�t kh_i u
+1080,Ti�m t_nh m_ch
+1081,U_ng
+1082,Chi_u ngo�i
+1083,Ti�m t_nh
+1084,"m_ch, kh� dung"
+1085,Ti�m t_nh m_ch
+1086,Ti�m t_nh m_ch
+1087,Ti�m t_nh m_ch
+1088,Ti�m t_nh m_ch
+1089,Ti�m t_nh m_ch
+1090,Ti�m t_nh m_ch
+1091,Ti�m t_nh m_ch
+1092,Ti�m t_nh m_ch
+1093,Ti�m t_nh m_ch
+1094,Ti�m v�o kh_i u
+1095,Ti�m t_nh m_ch
+1096,Ti�m t_nh m_ch
+1097,Ti�m t_nh m_ch
+1098,Ti�m t_nh m_ch
+1099,Ti�m t_nh m_ch
+1100,Ti�m t_nh m_ch
+1101,Ti�m t_nh m_ch
+1102,C_y v�o kh_i u
+1103,"U_ng, Ti�m t_nh m_ch"
+1104,Ti�m t_nh m_ch
+1105,Chi_u ngo�i
+1106,Ti�m v�o khoang t_ nhi�n
+1107,Ti�m __ng m_ch kh_i u
+1108,Ti�m t_nh m_ch
+1109,Ti�m t_nh m_ch
+1110,Ti�m t_nh m_ch
+1111,Ti�m t_nh m_ch
+1112,Ti�m t_nh m_ch
+1113,Ti�m t_nh m_ch
+1114,Ti�m d__i da
+1115,Ti�m t_nh m_ch
+1116,Ti�m t_nh m_ch
+1117,Ti�m t_nh m_ch
+1118,Ti�m t_nh m_ch
+1119,"U_ng, �p ngo�i da"
+1120,Ti�m v�o kh_i u
+1121,Ti�m t_nh m_ch
+1122,Ti�m t_nh m_ch
+1123,Ti�m __ng m_ch kh_i u
+1124,Ti�m t_nh m_ch
+1125,Ti�m t_nh m_ch
+1126,Ti�m t_nh m_ch
+1127,Ti�m t_nh m_ch
+1128,"Ti�m t_nh m_ch, d__i da"
+1129,Ti�m t_nh m_ch
+1130,Ti�m t_nh m_ch
+1131,Ti�m t_nh m_ch
+1132,Ti�m t_nh m_ch
+1133,U_ng
+1134,Ti�m v�o khoang t_ nhi�n
